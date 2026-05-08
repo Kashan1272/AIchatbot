@@ -2,7 +2,7 @@ import streamlit as st
 from chatbot_engine import get_groq_response
 
 st.set_page_config(page_title="Groq AI Chatbot", layout="centered")
-st.title("⚡ Groq AI Chatbot")
+st.title("⚡ Kashan's AI Chatbot")
 st.caption("Internship Task 1: AI & Automation")
 
 # Initialize chat history
